@@ -15,3 +15,4 @@
     <li><strong>Alimentación:</strong> 2 baterías Li-ion 18650 (4.2V c/u)</li>
     <li><strong>Sensor de distancia:</strong> Sensor ultrasonico</li>
 </ul>
+![auto robot](https://github.com/user-attachments/assets/7e7f5aa5-d21b-4ea3-b456-95997da0418a)
