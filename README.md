@@ -1,5 +1,5 @@
 # Robotica2
-# Nombres: Cristian Alejandro Durán Ignacio - Alfaro Ayzama José Fernando - 
+# Nombres: Cristian Alejandro Durán Ignacio - Alfaro Ayzama José Fernando - Ever Rolando Rejas Espinoza
 <h1 style="text-align: center; color: #ff0000;">🚀 Proyecto 1: Robot Seguidor de Objetos con Visión Artificial</h1>
 
 <p style="font-size: 18px; text-align: center;">
